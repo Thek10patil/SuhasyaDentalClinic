@@ -1,0 +1,18 @@
+.DoctorCards {
+  padding: 30px 20px;
+}
+
+.DoctorCardsForm {
+  border: 2px solid black;
+  padding: 0 20px;
+}
+
+.FormHeader {
+  text-align: center;
+  color: maroon;
+}
+
+.AddDoctor {
+  align-items: center;
+  
+}
