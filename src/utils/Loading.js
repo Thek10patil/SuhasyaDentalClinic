@@ -1,22 +1,20 @@
-import './Loading.css';
-import React from 'react';
-import PropTypes from 'prop-types';
+// import './Loading.css';
+// import React from 'react';
+// import PropTypes from 'prop-types';
 
+// export const Loading = (props) => {
 
-export const Loading = (props) => {
+//     const {width, height} = props;
 
-    const {width, height} = props;
+//     return <div className="Loading" style={{ width, height }}/>
+// }
 
-    return <div className="Loading" style={{ width, height }}/>
-} 
+// Loading.defaultProps = {
+//     width: '28px',
+//     height:'28px'
+// }
 
-
-Loading.defaultProps = {
-    width: '28px',
-    height:'28px'
-}
-
-Loading.propTypes = {
-    width: PropTypes.string,
-    height:PropTypes.string
-}
+// Loading.propTypes = {
+//     width: PropTypes.string,
+//     height:PropTypes.string
+// }

@@ -1,0 +1,25 @@
+.Footer {
+  background-color: #058a93;
+}
+
+.CopyRight {
+  background-color: #006872;
+}
+
+.FooterP {
+  border-bottom: 2px solid #00696f;
+  padding-bottom: 5px;
+}
+.FooterP:after {
+  content: "";
+  display: block;
+  border-bottom: 2px solid #98da53;
+  /* padding-bottom: 5px; */
+  margin-bottom: -6px;
+  max-width: 30px;
+}
+
+.FooterPOthers {
+  border-bottom: 2px solid #00696f;
+  padding-bottom: 5px;
+}
