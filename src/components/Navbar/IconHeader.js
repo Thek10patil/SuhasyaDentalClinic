@@ -24,7 +24,7 @@ export default function IconHeader() {
               <Navbar.Brand href="#" style={{ width: "200px" }}></Navbar.Brand>
               <Navbar.Brand href="#">
                 <img
-                  src={LocationIcon}
+                  src={appointmentIcon}
                   width="50px"
                   style={{
                     float: "left",
@@ -37,11 +37,13 @@ export default function IconHeader() {
                     display: "inline-block",
                     padding: "12px",
                     fontSize: "12px",
+                    top: "100%",
+                    bottom: "25%",
                   }}
                 >
-                  Thergaon, Pune
+                  Book Appointment
                   <br />
-                  Maharashtra, India
+                  drkiranpatil89@gmail.com
                 </p>
               </Navbar.Brand>
               <Navbar.Brand href="#">
@@ -90,7 +92,7 @@ export default function IconHeader() {
               </Navbar.Brand>
               <Navbar.Brand href="#">
                 <img
-                  src={appointmentIcon}
+                  src={LocationIcon}
                   width="50px"
                   style={{
                     float: "left",
@@ -103,13 +105,11 @@ export default function IconHeader() {
                     display: "inline-block",
                     padding: "12px",
                     fontSize: "12px",
-                    top: "100%",
-                    bottom: "25%",
                   }}
                 >
-                  Book Appointment
+                  Thergaon, Pune
                   <br />
-                  drkiranpatil89@gmail.com
+                  Maharashtra, India
                 </p>
               </Navbar.Brand>
             </Nav>
