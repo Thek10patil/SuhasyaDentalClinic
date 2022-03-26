@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SuhasyaDentalClinic/static/css/main.e5291d5b.chunk.css",
+    "main.js": "/SuhasyaDentalClinic/static/js/main.7939673e.chunk.js",
+    "main.js.map": "/SuhasyaDentalClinic/static/js/main.7939673e.chunk.js.map",
+    "runtime-main.js": "/SuhasyaDentalClinic/static/js/runtime-main.16de97b1.js",
+    "runtime-main.js.map": "/SuhasyaDentalClinic/static/js/runtime-main.16de97b1.js.map",
+    "static/css/2.7288dd81.chunk.css": "/SuhasyaDentalClinic/static/css/2.7288dd81.chunk.css",
+    "static/js/2.0e7e31db.chunk.js": "/SuhasyaDentalClinic/static/js/2.0e7e31db.chunk.js",
+    "static/js/2.0e7e31db.chunk.js.map": "/SuhasyaDentalClinic/static/js/2.0e7e31db.chunk.js.map",
+    "index.html": "/SuhasyaDentalClinic/index.html",
+    "precache-manifest.de17922fbbf1a70befe01104fd44169a.js": "/SuhasyaDentalClinic/precache-manifest.de17922fbbf1a70befe01104fd44169a.js",
+    "service-worker.js": "/SuhasyaDentalClinic/service-worker.js",
+    "static/css/2.7288dd81.chunk.css.map": "/SuhasyaDentalClinic/static/css/2.7288dd81.chunk.css.map",
+    "static/css/main.e5291d5b.chunk.css.map": "/SuhasyaDentalClinic/static/css/main.e5291d5b.chunk.css.map",
+    "static/js/2.0e7e31db.chunk.js.LICENSE.txt": "/SuhasyaDentalClinic/static/js/2.0e7e31db.chunk.js.LICENSE.txt",
+    "static/media/Cosmetic_Dentistry.png": "/SuhasyaDentalClinic/static/media/Cosmetic_Dentistry.4d72a82c.png",
+    "static/media/Dental_Care_Service.png": "/SuhasyaDentalClinic/static/media/Dental_Care_Service.29ff9f1a.png",
+    "static/media/Emergency_Care_Service.png": "/SuhasyaDentalClinic/static/media/Emergency_Care_Service.d0295a2d.png",
+    "static/media/Restoration_Dentistry.png": "/SuhasyaDentalClinic/static/media/Restoration_Dentistry.9983b00a.png",
+    "static/media/Testimonials_Logo.png": "/SuhasyaDentalClinic/static/media/Testimonials_Logo.dde6943d.png",
+    "static/media/doctors.png": "/SuhasyaDentalClinic/static/media/doctors.e57ace8b.png",
+    "static/media/navbar.JPG": "/SuhasyaDentalClinic/static/media/navbar.2342c197.JPG",
+    "static/media/slick-theme.css": "/SuhasyaDentalClinic/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16de97b1.js",
+    "static/css/2.7288dd81.chunk.css",
+    "static/js/2.0e7e31db.chunk.js",
+    "static/css/main.e5291d5b.chunk.css",
+    "static/js/main.7939673e.chunk.js"
+  ]
+}
